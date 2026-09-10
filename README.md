@@ -26,7 +26,7 @@ Products, orders and users are modeled in SQL Server with proper relationships, 
 ## Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=dotnet,cs,mysql" />
+<img src="https://tech-stack.wontory.dev/api/orbit?text=EcommerceApp&slugs=dotnet,csharp,mysql" alt="tech stack orbit" width="380" />
 </div>
 
 ASP.NET Core and C# for the backend, SQL Server for data storage, and Entity Framework Core for data access and migrations.
